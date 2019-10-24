@@ -152,7 +152,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="networkStudent.cpp" />
-    <ClCompile Include="PERFORMANCE_ASSESSMENT_c867.cpp" />
     <ClCompile Include="roster.cpp" />
     <ClCompile Include="securityStudent.cpp" />
     <ClCompile Include="softwareStudent.cpp" />
@@ -165,6 +164,9 @@
     <ClInclude Include="securityStudent.h" />
     <ClInclude Include="softwareStudent.h" />
     <ClInclude Include="student.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Text.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

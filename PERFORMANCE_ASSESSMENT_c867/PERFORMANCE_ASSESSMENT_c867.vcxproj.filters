@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PERFORMANCE_ASSESSMENT_c867.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="student.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -53,5 +50,10 @@
     <ClInclude Include="roster.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Text.txt">
+      <Filter>Source Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
