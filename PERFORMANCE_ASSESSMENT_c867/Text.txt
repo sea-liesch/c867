@@ -1,3 +1,0 @@
-degreeTypeLabel = BookType
-
-studentType studentdegreetype;  = BookType btype
